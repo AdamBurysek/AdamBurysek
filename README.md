@@ -4,7 +4,8 @@
 
 - 👯 I’m looking for interesting projects in Frontend Development (prefering React / Next.js)
 - 🌱 I’m currently learning Swift, TailwindCSS
-- 💬 Ask me about anything 
+- 💬 Ask me about anything
+- 🤔 What came first: the program or the computer?
 
 ### Tech Stack
 - **Graphics**: Figma, Procreate
